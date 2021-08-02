@@ -1,0 +1,10 @@
+.array-container{
+    position: absolute;
+    padding: 20px;
+}
+.array-bar{
+    width: 4px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+}
